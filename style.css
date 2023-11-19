@@ -1,0 +1,38 @@
+body {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.bg-image {
+  border-radius: 19px;
+}
+
+.cover {
+  width: 700px;
+  position: relative;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.cover-section {
+  position: absolute;
+  bottom: 80px;
+}
+
+.heading {
+  color: white;
+}
+
+.description {
+  color: white;
+  margin: 10px 40px;
+}
+
+.button {
+  font-family: "Noto Sans JP", sans-serif;
+  background-color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-weight: bold;
+  margin: 10px;
+}
